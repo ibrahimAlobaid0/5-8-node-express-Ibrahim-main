@@ -8,5 +8,5 @@ const quotes = [
 ];
 
 export function getRandomQuote() {
- return {/*write code to here*/}
+ return quotes[getRandomInt(quotes.length)];
 }

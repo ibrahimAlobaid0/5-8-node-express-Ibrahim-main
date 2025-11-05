@@ -1,0 +1,24 @@
+{
+  "name": "5-8-node-express-ibrahim-main",
+  "version": "1.0.0",
+  "description": "Follow App.jsx file to implement the lab.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimAlobaid0/5-8-node-express-Ibrahim-main.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimAlobaid0/5-8-node-express-Ibrahim-main/issues"
+  },
+  "homepage": "https://github.com/ibrahimAlobaid0/5-8-node-express-Ibrahim-main#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
